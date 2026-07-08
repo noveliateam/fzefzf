@@ -25,5 +25,5 @@ function getUserIP(): string {
 
 $_SESSION['captcha_valide'] = true;
 
-header('Location: ./pages/drive.php');
+header('Location: ./pages/index.php');
 exit;
