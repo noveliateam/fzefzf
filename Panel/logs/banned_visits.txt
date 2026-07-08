@@ -1,0 +1,78 @@
+[2026-04-05 01:42:05] IP: 194.36.25.29 | Country: UNKNOWN | ISP: UNKNOWN | Reason: Erreur API
+[2026-04-05 01:43:57] IP: 194.36.25.29 | Country: DE | ISP: Mullvad | Reason: ISP/AS cloud (MULLVAD)
+[2026-04-05 02:17:50] IP: 5.133.192.131 | Country: SE | ISP: Internet Vikings International AB | Reason: ISP non autoriser (Internet Vikings International AB), Proxy détecter, Hébergeur detect
+[2026-04-05 03:04:57] IP: 38.109.228.210 | Country: FR | ISP: GTHost | Reason: ISP non autoriser (GTHost), Proxy détecter, Hébergeur detect
+[2026-04-05 03:08:58] IP: 204.76.203.25 | Country: NL | ISP: Pfcloud UG | Reason: ISP non autoriser (Pfcloud UG), Proxy détecter
+[2026-04-05 04:28:16] IP: 66.29.156.225 | Country: US | ISP: Namecheap, Inc. | Reason: Pays non autoriser (US), ISP non autoriser (Namecheap, Inc.), Hébergeur detect
+[2026-04-05 05:03:06] IP: 128.90.135.15 | Country: NL | ISP: Powerhouse Management, Inc. | Reason: ISP non autoriser (Powerhouse Management, Inc.), Proxy détecter, Hébergeur detect, Bot UA détecter
+[2026-04-05 06:21:36] IP: 104.168.98.195 | Country: US | ISP: HostPapa | Reason: Pays non autoriser (US), ISP non autoriser (HostPapa), Proxy détecter, Hébergeur detect
+[2026-04-05 09:31:43] IP: 151.115.100.24 | Country: PL | ISP: Scaleway SAS | Reason: ISP/AS cloud (SCALeway)
+[2026-04-05 11:06:49] IP: 165.227.211.238 | Country: US | ISP: DigitalOcean, LLC | Reason: ISP/AS cloud (DIGITALOCEAN)
+[2026-04-05 11:17:31] IP: 3.18.186.238 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-05 13:13:12] IP: 54.151.176.0 | Country: SG | ISP: Amazon Technologies Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-05 16:05:15] IP: 81.161.59.17 | Country: RO | ISP: Bitdefender SRL | Reason: ISP non autoriser (Bitdefender SRL), Proxy détecter
+[2026-04-05 18:37:49] IP: 103.105.165.2 | Country: US | ISP: MOBILE SALES & DISTRIBUTION (PVT.) LIMITED | Reason: Pays non autoriser (US), Proxy détecter
+[2026-04-06 01:08:41] IP: 172.99.189.227 | Country: FR | ISP: GTHost | Reason: ISP non autoriser (GTHost), Proxy détecter, Hébergeur detect
+[2026-04-06 01:09:06] IP: 79.127.134.244 | Country: FR | ISP: Datacamp Limited | Reason: ISP non autoriser (Datacamp Limited), Proxy détecter, Hébergeur detect
+[2026-04-06 01:12:37] IP: 138.199.15.172 | Country: FR | ISP: DataCamp Limited | Reason: ISP non autoriser (DataCamp Limited), Proxy détecter, Hébergeur detect
+[2026-04-06 01:14:31] IP: 157.22.74.89 | Country: FR | ISP: Global Transit Systems LLC | Reason: ISP non autoriser (Global Transit Systems LLC), Proxy détecter
+[2026-04-06 01:16:33] IP: 79.125.64.22 | Country: IE | ISP: Amazon EU AWS Dublin | Reason: ISP/AS cloud (AMAZON)
+[2026-04-06 02:02:26] IP: 142.250.32.40 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 02:02:27] IP: 142.250.32.39 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 02:02:28] IP: 142.250.32.38 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 02:05:16] IP: 63.33.68.12 | Country: IE | ISP: Amazon.com | Reason: ISP/AS cloud (AMAZON)
+[2026-04-06 02:11:40] IP: 199.45.155.108 | Country: HK | ISP: Censys, Inc. | Reason: Pays non autoriser (HK), ISP non autoriser (Censys, Inc.)
+[2026-04-06 02:23:02] IP: 149.154.161.196 | Country: NL | ISP: Telegram Messenger San Francisco Network | Reason: ISP non autoriser (Telegram Messenger San Francisco Network), Bot UA détecter
+[2026-04-06 03:31:35] IP: 203.188.183.64 | Country: FR | ISP: GTT Communications Inc. | Reason: ISP non autoriser (GTT Communications Inc.), Proxy détecter
+[2026-04-06 09:41:07] IP: 34.24.41.185 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 09:41:07] IP: 34.24.41.185 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 17:43:14] IP: 51.158.248.226 | Country: NL | ISP: Scaleway SAS | Reason: ISP/AS cloud (SCALeway)
+[2026-04-06 19:37:20] IP: 172.253.15.233 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-06 20:27:13] IP: 4.251.36.195 | Country: FR | ISP: Microsoft Corporation | Reason: ISP/AS cloud (MICROSOFT)
+[2026-04-06 20:43:24] IP: 66.132.172.106 | Country: US | ISP: Censys, Inc. | Reason: Pays non autoriser (US), ISP non autoriser (Censys, Inc.)
+[2026-04-06 20:58:19] IP: 198.92.97.37 | Country: US | ISP: Rapid Systems Corporation | Reason: Pays non autoriser (US), ISP non autoriser (Rapid Systems Corporation), Proxy détecter
+[2026-04-06 22:46:53] IP: 34.63.183.194 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 07:56:30] IP: 151.115.99.190 | Country: PL | ISP: Scaleway SAS | Reason: ISP/AS cloud (SCALeway)
+[2026-04-07 08:35:41] IP: 4.43.184.113 | Country: US | ISP: Level 3 Communications | Reason: Pays non autoriser (US), ISP non autoriser (Level 3 Communications)
+[2026-04-07 10:27:59] IP: 143.110.218.248 | Country: UNKNOWN | ISP: UNKNOWN | Reason: Erreur API
+[2026-04-07 10:28:24] IP: 80.13.194.114 | Country: UNKNOWN | ISP: UNKNOWN | Reason: Erreur API
+[2026-04-07 13:27:47] IP: 142.252.248.234 | Country: US | ISP: Connect Northwest Internet Services, LLC | Reason: Pays non autoriser (US), ISP non autoriser (Connect Northwest Internet Services, LLC)
+[2026-04-07 15:45:05] IP: 34.127.85.233 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 15:47:41] IP: 15.237.42.244 | Country: FR | ISP: Amazon Technologies Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 16:03:30] IP: 136.118.56.189 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 17:05:45] IP: 66.132.195.40 | Country: US | ISP: Censys, Inc. | Reason: Pays non autoriser (US), ISP non autoriser (Censys, Inc.)
+[2026-04-07 18:54:19] IP: 161.156.177.236 | Country: DE | ISP: IBM Cloud | Reason: ISP/AS cloud (IBM)
+[2026-04-07 18:54:23] IP: 3.145.101.130 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 18:54:23] IP: 3.12.35.152 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 18:54:23] IP: 3.17.165.65 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 18:54:23] IP: 34.125.196.162 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 18:54:23] IP: 107.178.194.192 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 18:54:24] IP: 54.70.53.60 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 18:54:24] IP: 14.225.208.202 | Country: VN | ISP: Vietnam Posts and Telecommunications Group | Reason: Pays non autoriser (VN), ISP non autoriser (Vietnam Posts and Telecommunications Group), Bot UA détecter
+[2026-04-07 18:54:33] IP: 176.100.243.133 | Country: RU | ISP: Smart Technology LLC | Reason: ISP non autoriser (Smart Technology LLC), Proxy détecter, Bot UA détecter
+[2026-04-07 19:54:32] IP: 79.127.129.214 | Country: JP | ISP: Datacamp Limited | Reason: Pays non autoriser (JP), ISP non autoriser (Datacamp Limited), Proxy détecter, Hébergeur detect
+[2026-04-07 19:54:40] IP: 34.122.147.229 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 19:54:52] IP: 205.169.39.57 | Country: US | ISP: CenturyLink Communications | Reason: Pays non autoriser (US), ISP non autoriser (CenturyLink Communications), Proxy détecter
+[2026-04-07 19:54:55] IP: 205.169.39.56 | Country: US | ISP: CenturyLink Communications | Reason: Pays non autoriser (US), ISP non autoriser (CenturyLink Communications)
+[2026-04-07 19:54:59] IP: 205.169.39.13 | Country: US | ISP: CenturyLink Communications | Reason: Pays non autoriser (US), ISP non autoriser (CenturyLink Communications)
+[2026-04-07 19:54:59] IP: 205.169.39.37 | Country: US | ISP: CenturyLink Communications | Reason: Pays non autoriser (US), ISP non autoriser (CenturyLink Communications)
+[2026-04-07 19:55:10] IP: 64.225.100.118 | Country: DE | ISP: DigitalOcean, LLC | Reason: ISP/AS cloud (DIGITALOCEAN)
+[2026-04-07 20:00:21] IP: 181.214.153.56 | Country: CA | ISP: Cogent Communications | Reason: Pays non autoriser (CA), ISP non autoriser (Cogent Communications), Proxy détecter
+[2026-04-07 20:10:31] IP: 10.234.90.64 | Country: UNKNOWN | ISP: UNKNOWN | Reason: Erreur API
+[2026-04-07 20:18:32] IP: 178.33.167.160 | Country: ES | ISP: OVH SAS | Reason: ISP/AS cloud (OVH)
+[2026-04-07 20:36:07] IP: 51.79.121.251 | Country: CA | ISP: OVH SAS | Reason: ISP/AS cloud (OVH)
+[2026-04-07 21:02:18] IP: 103.196.9.127 | Country: US | ISP: M247 Europe SRL | Reason: ISP/AS cloud (M247)
+[2026-04-07 21:24:55] IP: 141.148.153.213 | Country: US | ISP: Oracle Corporation | Reason: ISP/AS cloud (ORACLE)
+[2026-04-07 21:30:16] IP: 206.135.157.68 | Country: US | ISP: Arisk Communications inc | Reason: Pays non autoriser (US), ISP non autoriser (Arisk Communications inc)
+[2026-04-07 23:04:21] IP: 18.191.27.111 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:04:21] IP: 13.59.74.41 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:04:21] IP: 52.34.76.65 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:04:30] IP: 34.71.214.216 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 23:07:49] IP: 35.243.23.8 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 23:07:49] IP: 35.243.23.1 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 23:07:50] IP: 35.243.23.2 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)
+[2026-04-07 23:07:50] IP: 3.137.192.145 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:07:51] IP: 3.15.186.234 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:07:53] IP: 3.148.252.25 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:07:53] IP: 18.217.234.81 | Country: US | ISP: Amazon.com, Inc. | Reason: ISP/AS cloud (AMAZON)
+[2026-04-07 23:17:20] IP: 34.125.230.24 | Country: US | ISP: Google LLC | Reason: ISP/AS cloud (GOOGLE)

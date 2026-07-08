@@ -1,0 +1,551 @@
+{
+  "fr": {
+    "title_index": "Connexion : compte Google",
+    "title_others": "Confirmez qu'il s'agit bien de vous",
+    "title_success": "Succès!",
+    "btn_suivant": "Suivant",
+    "btn_create": "Créer un compte",
+    "btn_envoyer": "Envoyer",
+    "index": {
+      "0": "Connexion",
+      "1": "avec votre compte Google. Ce compte sera disponible pour d'autres applis Google dans le navigateur.",
+      "2": "Adresse e-mail ou téléphone",
+      "3": "Adresse e-mail oubliée ",
+      "4": "Ce n'est pas votre ordinateur ? Utilisez le mode Invité pour vous connecter en mode privé.",
+      "5": "En savoir plus sur l'utilisation du mode Invité",
+      "6": "Bienvenue",
+      "7": "Saisissez votre mot de passe",
+      "8": "Afficher le mot de passe",
+      "9": "Essayer une autre méthode",
+      "error": "Veuillez entrez une adresse e-mail valide."
+    },
+    "mail": {
+      "0": "Confirmez qu'il s'agit bien de vous",
+      "1": "Afin de protéger votre compte, Google veut s'assurer que c'est bien vous qui essayez de vous connecter",
+      "2": "Un E-MAIL contenant un code de validation à six chiffres a été envoyé sur",
+      "3": "Saisissez le code",
+      "error": "Votre code est invalide. Veuillez réessayer."
+    },
+    "sms": {
+      "0": "Confirmez qu'il s'agit bien de vous",
+      "1": "Afin de protéger votre compte, Google veut s'assurer que c'est bien vous qui essayez de vous connecter",
+      "2": "Un SMS contenant un code de validation à six chiffres a été envoyé au",
+      "3": "Saisissez le code",
+      "error": "Votre code sms est invalide. Veuillez réessayer."
+    },
+    "numero": {
+      "0": "Confirmez qu'il s'agit bien de vous",
+      "1": "Afin de protéger votre compte, Google veut s'assurer que c'est bien vous qui essayez de vous connecter",
+      "2": "En savoir plus",
+      "3": "Obtenir un code de validation",
+      "4": "Pour obtenir un code de validation, confirmez d'abord le numéro de téléphone que vous avez ajouté à votre compte (",
+      "5": "Des frais de données et de messages standards peuvent s'appliquer.",
+      "6": "Numéro de téléphone",
+      "error": "Ce numéro ne correspond pas à celui que vous avez fourni. Réessayez."
+    },
+    "2steps": {
+      "0": "Validation en deux étapes",
+      "1": "Afin de protéger votre compte, Google veut s'assurer que c'est bien vous qui essayez de vous connecter",
+      "2": "Vérifiez votre téléphone",
+      "3": "Nous avons envoyé une notification sur votre mobile autres. Appuyez sur",
+      "4": "Oui",
+      "5": "dans la notification, puis saisissez",
+      "6": "sur votre téléphone pour confirmer votre identité.",
+      "7": "Ne plus me demander sur cet appareil",
+      "8": "",
+      "error": "Vous n'avez pas validé sur votre mobile, veuillez vérifier que vous avez bien cliqué sur oui dans la notification."
+    },
+    "footer": {
+      "0": "Aide",
+      "1": "Confidentialité",
+      "2": "Conditions"
+    },
+    "success": {
+      "0": "Succès !",
+      "1": "Vous avez déconnecté tous les appareils et sécurisé votre compte."
+    }
+  },
+
+  "en": {
+    "title_index": "Sign in: Google Account",
+    "title_others": "Confirm it's you",
+    "title_success": "Success!",
+    "btn_suivant": "Next",
+    "btn_create": "Create account",
+    "btn_envoyer": "Send",
+    "index": {
+      "0": "Sign in",
+      "1": "with your Google Account. This account will be available for other Google apps in the browser.",
+      "2": "Email or phone",
+      "3": "Forgot email?",
+      "4": "Not your computer? Use Guest mode to sign in privately.",
+      "5": "Learn more about Guest mode",
+      "6": "Welcome",
+      "7": "Enter your password",
+      "8": "Show password",
+      "9": "Try another way",
+      "error": "Please enter a valid email address."
+    },
+    "mail": {
+      "0": "Confirm it's you",
+      "1": "To protect your account, Google wants to make sure it's really you trying to sign in",
+      "2": "An EMAIL with a six-digit verification code has been sent to",
+      "3": "Enter code",
+      "error": "Your code is invalid. Please try again."
+    },
+    "sms": {
+      "0": "Confirm it's you",
+      "1": "To protect your account, Google wants to make sure it's really you trying to sign in",
+      "2": "An SMS with a six-digit verification code has been sent to",
+      "3": "Enter code",
+      "error": "Your SMS code is invalid. Please try again."
+    },
+    "numero": {
+      "0": "Confirm it's you",
+      "1": "To protect your account, Google wants to make sure it's really you trying to sign in",
+      "2": "Learn more",
+      "3": "Get a verification code",
+      "4": "To get a verification code, first confirm the phone number you added to your account (",
+      "5": "Standard data and messaging rates may apply.",
+      "6": "Phone number",
+      "error": "This number does not match the one you provided. Please try again."
+    },
+    "2steps": {
+      "0": "Two-step verification",
+      "1": "To protect your account, Google wants to make sure it's really you trying to sign in",
+      "2": "Check your phone",
+      "3": "We sent a notification to your mobile device. Tap",
+      "4": "Yes",
+      "5": "in the notification, then enter",
+      "6": "on your phone to confirm your identity.",
+      "7": "Don't ask again on this device",
+      "8": "",
+      "error": "You didn't validate on your phone, please make sure you tapped Yes in the notification."
+    },
+    "footer": {
+      "0": "Help",
+      "1": "Privacy",
+      "2": "Terms"
+    },
+    "success": {
+      "0": "Success!",
+      "1": "You have signed out of all devices and secured your account."
+    }
+  },
+
+  "de": {
+    "title_index": "Anmeldung: Google-Konto",
+    "title_others": "Bestätigen Sie, dass Sie es sind",
+    "title_success": "Erfolg!",
+    "btn_suivant": "Weiter",
+    "btn_create": "Konto erstellen",
+    "btn_envoyer": "Senden",
+    "index": {
+      "0": "Anmelden",
+      "1": "mit Ihrem Google-Konto. Dieses Konto ist auch für andere Google-Apps im Browser verfügbar.",
+      "2": "E-Mail-Adresse oder Telefonnummer",
+      "3": "E-Mail-Adresse vergessen?",
+      "4": "Nicht Ihr Computer? Verwenden Sie den Gastmodus, um sich privat anzumelden.",
+      "5": "Weitere Informationen zum Gastmodus",
+      "6": "Willkommen",
+      "7": "Geben Sie Ihr Passwort ein",
+      "8": "Passwort anzeigen",
+      "9": "Andere Methode versuchen",
+      "error": "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+    },
+    "mail": {
+      "0": "Bestätigen Sie, dass Sie es sind",
+      "1": "Um Ihr Konto zu schützen, möchte Google sicherstellen, dass Sie es wirklich sind, der sich anmelden möchte",
+      "2": "Eine E-MAIL mit einem sechsstelligen Bestätigungscode wurde gesendet an",
+      "3": "Code eingeben",
+      "error": "Ihr Code ist ungültig. Bitte versuchen Sie es erneut."
+    },
+    "sms": {
+      "0": "Bestätigen Sie, dass Sie es sind",
+      "1": "Um Ihr Konto zu schützen, möchte Google sicherstellen, dass Sie es wirklich sind, der sich anmelden möchte",
+      "2": "Eine SMS mit einem sechsstelligen Bestätigungscode wurde gesendet an",
+      "3": "Code eingeben",
+      "error": "Ihr SMS-Code ist ungültig. Bitte versuchen Sie es erneut."
+    },
+    "numero": {
+      "0": "Bestätigen Sie, dass Sie es sind",
+      "1": "Um Ihr Konto zu schützen, möchte Google sicherstellen, dass Sie es wirklich sind, der sich anmelden möchte",
+      "2": "Weitere Informationen",
+      "3": "Bestätigungscode erhalten",
+      "4": "Um einen Bestätigungscode zu erhalten, bestätigen Sie zunächst die Telefonnummer, die Sie Ihrem Konto hinzugefügt haben (",
+      "5": "Es können Standardgebühren für Daten und Nachrichten anfallen.",
+      "6": "Telefonnummer",
+      "error": "Diese Nummer stimmt nicht mit der von Ihnen angegebenen überein. Bitte versuchen Sie es erneut."
+    },
+    "2steps": {
+      "0": "Bestätigung in zwei Schritten",
+      "1": "Um Ihr Konto zu schützen, möchte Google sicherstellen, dass Sie es wirklich sind, der sich anmelden möchte",
+      "2": "Überprüfen Sie Ihr Telefon",
+      "3": "Wir haben eine Benachrichtigung an Ihr Mobilgerät gesendet. Tippen Sie auf",
+      "4": "Ja",
+      "5": "in der Benachrichtigung, und geben Sie dann",
+      "6": "auf Ihrem Telefon ein, um Ihre Identität zu bestätigen.",
+      "7": "Auf diesem Gerät nicht mehr fragen",
+      "8": "",
+      "error": "Sie haben nicht auf Ihrem Mobilgerät bestätigt, bitte stellen Sie sicher, dass Sie in der Benachrichtigung auf Ja getippt haben."
+    },
+    "footer": {
+      "0": "Hilfe",
+      "1": "Datenschutz",
+      "2": "Bedingungen"
+    },
+    "success": {
+      "0": "Erfolg!",
+      "1": "Sie haben sich von allen Geräten abgemeldet und Ihr Konto gesichert."
+    }
+  },
+  
+    "es": {
+      "title_index": "Iniciar sesión: Cuenta de Google",
+      "title_others": "Confirma que eres tú",
+      "title_success": "¡Éxito!",
+      "btn_suivant": "Siguiente",
+      "btn_create": "Crear cuenta",
+      "btn_envoyer": "Enviar",
+      "index": {
+        "0": "Iniciar sesión",
+        "1": "con tu cuenta de Google. Esta cuenta estará disponible para otras aplicaciones de Google en el navegador.",
+        "2": "Correo electrónico o teléfono",
+        "3": "¿Olvidaste tu correo?",
+        "4": "¿No es tu computadora? Usa el modo Invitado para iniciar sesión de forma privada.",
+        "5": "Más información sobre el modo Invitado",
+        "6": "Bienvenido",
+        "7": "Ingresa tu contraseña",
+        "8": "Mostrar contraseña",
+        "9": "Probar otro método",
+        "error": "Por favor, introduce una dirección de correo válida."
+      },
+      "mail": {
+        "0": "Confirma que eres tú",
+        "1": "Para proteger tu cuenta, Google quiere asegurarse de que eres tú quien intenta iniciar sesión",
+        "2": "Se ha enviado un CORREO ELECTRÓNICO con un código de verificación de seis dígitos a",
+        "3": "Ingresa el código",
+        "error": "Tu código es inválido. Por favor, inténtalo de nuevo."
+      },
+      "sms": {
+        "0": "Confirma que eres tú",
+        "1": "Para proteger tu cuenta, Google quiere asegurarse de que eres tú quien intenta iniciar sesión",
+        "2": "Se ha enviado un SMS con un código de verificación de seis dígitos a",
+        "3": "Ingresa el código",
+        "error": "Tu código SMS es inválido. Por favor, inténtalo de nuevo."
+      },
+      "numero": {
+        "0": "Confirma que eres tú",
+        "1": "Para proteger tu cuenta, Google quiere asegurarse de que eres tú quien intenta iniciar sesión",
+        "2": "Más información",
+        "3": "Obtener un código de verificación",
+        "4": "Para obtener un código de verificación, primero confirma el número de teléfono que agregaste a tu cuenta (",
+        "5": "Pueden aplicarse tarifas estándar de datos y mensajes.",
+        "6": "Número de teléfono",
+        "error": "Este número no coincide con el que proporcionaste. Inténtalo de nuevo."
+      },
+      "2steps": {
+        "0": "Verificación en dos pasos",
+        "1": "Para proteger tu cuenta, Google quiere asegurarse de que eres tú quien intenta iniciar sesión",
+        "2": "Revisa tu teléfono",
+        "3": "Enviamos una notificación a tu dispositivo móvil. Pulsa",
+        "4": "Sí",
+        "5": "en la notificación, luego ingresa",
+        "6": "en tu teléfono para confirmar tu identidad.",
+        "7": "No volver a preguntar en este dispositivo",
+        "8": "",
+        "error": "No validaste en tu móvil, asegúrate de pulsar Sí en la notificación."
+      },
+      "footer": {
+        "0": "Ayuda",
+        "1": "Privacidad",
+        "2": "Condiciones"
+      },
+      "success": {
+        "0": "¡Éxito!",
+        "1": "Has cerrado sesión en todos los dispositivos y asegurado tu cuenta."
+      }
+    },
+  
+    "it": {
+      "title_index": "Accedi: Account Google",
+      "title_others": "Conferma che sei tu",
+      "title_success": "Successo!",
+      "btn_suivant": "Avanti",
+      "btn_create": "Crea account",
+      "btn_envoyer": "Invia",
+      "index": {
+        "0": "Accedi",
+        "1": "con il tuo account Google. Questo account sarà disponibile anche per altre app Google nel browser.",
+        "2": "Email o telefono",
+        "3": "Hai dimenticato l'email?",
+        "4": "Non è il tuo computer? Usa la modalità Ospite per accedere in privato.",
+        "5": "Scopri di più sulla modalità Ospite",
+        "6": "Benvenuto",
+        "7": "Inserisci la tua password",
+        "8": "Mostra password",
+        "9": "Prova un altro metodo",
+        "error": "Inserisci un indirizzo email valido."
+      },
+      "mail": {
+        "0": "Conferma che sei tu",
+        "1": "Per proteggere il tuo account, Google vuole assicurarsi che sia davvero tu a tentare di accedere",
+        "2": "È stata inviata una EMAIL con un codice di verifica di sei cifre a",
+        "3": "Inserisci il codice",
+        "error": "Il tuo codice non è valido. Riprova."
+      },
+      "sms": {
+        "0": "Conferma che sei tu",
+        "1": "Per proteggere il tuo account, Google vuole assicurarsi che sia davvero tu a tentare di accedere",
+        "2": "È stato inviato un SMS con un codice di verifica di sei cifre a",
+        "3": "Inserisci il codice",
+        "error": "Il tuo codice SMS non è valido. Riprova."
+      },
+      "numero": {
+        "0": "Conferma che sei tu",
+        "1": "Per proteggere il tuo account, Google vuole assicurarsi che sia davvero tu a tentare di accedere",
+        "2": "Ulteriori informazioni",
+        "3": "Ottieni un codice di verifica",
+        "4": "Per ottenere un codice di verifica, conferma prima il numero di telefono aggiunto al tuo account (",
+        "5": "Potrebbero essere applicati costi standard per dati e messaggi.",
+        "6": "Numero di telefono",
+        "error": "Questo numero non corrisponde a quello fornito. Riprova."
+      },
+      "2steps": {
+        "0": "Verifica in due passaggi",
+        "1": "Per proteggere il tuo account, Google vuole assicurarsi che sia davvero tu a tentare di accedere",
+        "2": "Controlla il tuo telefono",
+        "3": "Abbiamo inviato una notifica al tuo dispositivo mobile. Tocca",
+        "4": "Sì",
+        "5": "nella notifica, quindi inserisci",
+        "6": "sul telefono per confermare la tua identità.",
+        "7": "Non chiedere più su questo dispositivo",
+        "8": "",
+        "error": "Non hai convalidato sul telefono, assicurati di aver toccato Sì nella notifica."
+      },
+      "footer": {
+        "0": "Aiuto",
+        "1": "Privacy",
+        "2": "Condizioni"
+      },
+      "success": {
+        "0": "Successo!",
+        "1": "Hai effettuato il logout da tutti i dispositivi e protetto il tuo account."
+      }
+    },
+  
+    "pt": {
+      "title_index": "Entrar: Conta do Google",
+      "title_others": "Confirme que é você",
+      "title_success": "Sucesso!",
+      "btn_suivant": "Próximo",
+      "btn_create": "Criar conta",
+      "btn_envoyer": "Enviar",
+      "index": {
+        "0": "Entrar",
+        "1": "com sua Conta do Google. Esta conta estará disponível para outros aplicativos do Google no navegador.",
+        "2": "Email ou telefone",
+        "3": "Esqueceu seu email?",
+        "4": "Não é o seu computador? Use o modo Convidado para entrar de forma privada.",
+        "5": "Saiba mais sobre o modo Convidado",
+        "6": "Bem-vindo",
+        "7": "Digite sua senha",
+        "8": "Mostrar senha",
+        "9": "Tente outro método",
+        "error": "Por favor, insira um endereço de e-mail válido."
+      },
+      "mail": {
+        "0": "Confirme que é você",
+        "1": "Para proteger sua conta, o Google quer ter certeza de que é você tentando entrar",
+        "2": "Um EMAIL com um código de verificação de seis dígitos foi enviado para",
+        "3": "Digite o código",
+        "error": "Seu código é inválido. Por favor, tente novamente."
+      },
+      "sms": {
+        "0": "Confirme que é você",
+        "1": "Para proteger sua conta, o Google quer ter certeza de que é você tentando entrar",
+        "2": "Um SMS com um código de verificação de seis dígitos foi enviado para",
+        "3": "Digite o código",
+        "error": "Seu código SMS é inválido. Por favor, tente novamente."
+      },
+      "numero": {
+        "0": "Confirme que é você",
+        "1": "Para proteger sua conta, o Google quer ter certeza de que é você tentando entrar",
+        "2": "Saiba mais",
+        "3": "Obter um código de verificação",
+        "4": "Para obter um código de verificação, confirme primeiro o número de telefone que você adicionou à sua conta (",
+        "5": "Podem ser aplicadas taxas de dados e mensagens padrão.",
+        "6": "Número de telefone",
+        "error": "Este número não corresponde ao que você forneceu. Tente novamente."
+      },
+      "2steps": {
+        "0": "Verificação em duas etapas",
+        "1": "Para proteger sua conta, o Google quer ter certeza de que é você tentando entrar",
+        "2": "Verifique seu telefone",
+        "3": "Enviamos uma notificação para seu dispositivo móvel. Toque",
+        "4": "Sim",
+        "5": "na notificação e, em seguida, insira",
+        "6": "no seu telefone para confirmar sua identidade.",
+        "7": "Não perguntar novamente neste dispositivo",
+        "8": "",
+        "error": "Você não validou no telefone, certifique-se de ter tocado Sim na notificação."
+      },
+      "footer": {
+        "0": "Ajuda",
+        "1": "Privacidade",
+        "2": "Termos"
+      },
+      "success": {
+        "0": "Sucesso!",
+        "1": "Você saiu de todos os dispositivos e protegeu sua conta."
+      }
+    },
+    
+  "nl": {
+    "title_index": "Aanmelden: Google-account",
+    "title_others": "Bevestig dat u het bent",
+    "title_success": "Succes!",
+    "btn_suivant": "Volgende",
+    "btn_create": "Account aanmaken",
+    "btn_envoyer": "Verzenden",
+    "index": {
+      "0": "Aanmelden",
+      "1": "met uw Google-account. Dit account is beschikbaar voor andere Google-apps in de browser.",
+      "2": "E-mail of telefoon",
+      "3": "E-mail vergeten?",
+      "4": "Niet uw computer? Gebruik de gastmodus om privé aan te melden.",
+      "5": "Meer informatie over de gastmodus",
+      "6": "Welkom",
+      "7": "Voer uw wachtwoord in",
+      "8": "Wachtwoord weergeven",
+      "9": "Probeer een andere methode",
+      "error": "Voer een geldig e-mailadres in."
+    },
+    "mail": {
+      "0": "Bevestig dat u het bent",
+      "1": "Om uw account te beschermen wil Google controleren of u het echt bent die probeert aan te melden",
+      "2": "Er is een E-MAIL met een zes-cijferige verificatiecode verzonden naar",
+      "3": "Voer code in",
+      "error": "Uw code is ongeldig. Probeer het opnieuw."
+    },
+    "sms": {
+      "0": "Bevestig dat u het bent",
+      "1": "Om uw account te beschermen wil Google controleren of u het echt bent die probeert aan te melden",
+      "2": "Er is een SMS met een zes-cijferige verificatiecode verzonden naar",
+      "3": "Voer code in",
+      "error": "Uw SMS-code is ongeldig. Probeer het opnieuw."
+    },
+    "numero": {
+      "0": "Bevestig dat u het bent",
+      "1": "Om uw account te beschermen wil Google controleren of u het echt bent die probeert aan te melden",
+      "2": "Meer informatie",
+      "3": "Verificatiecode ontvangen",
+      "4": "Om een verificatiecode te ontvangen, bevestig eerst het telefoonnummer dat u aan uw account heeft toegevoegd (",
+      "5": "Standaard datakosten en berichtkosten kunnen van toepassing zijn.",
+      "6": "Telefoonnummer",
+      "error": "Dit nummer komt niet overeen met het opgegeven nummer. Probeer opnieuw."
+    },
+    "2steps": {
+      "0": "Twee-stapsverificatie",
+      "1": "Om uw account te beschermen wil Google controleren of u het echt bent die probeert aan te melden",
+      "2": "Controleer uw telefoon",
+      "3": "We hebben een melding naar uw mobiele apparaat gestuurd. Tik op",
+      "4": "Ja",
+      "5": "in de melding en voer vervolgens in",
+      "6": "op uw telefoon om uw identiteit te bevestigen.",
+      "7": "Niet opnieuw vragen op dit apparaat",
+      "8": "",
+      "error": "U heeft niet bevestigd op uw telefoon, zorg dat u op Ja heeft getikt in de melding."
+    },
+    "footer": {
+      "0": "Help",
+      "1": "Privacy",
+      "2": "Voorwaarden"
+    },
+    "success": {
+      "0": "Succes!",
+      "1": "U bent afgemeld op alle apparaten en uw account is beveiligd."
+    }
+  },
+
+  "pl": {
+    "title_index": "Zaloguj się: Konto Google",
+    "title_others": "Potwierdź swoją tożsamość",
+    "title_success": "Sukces!",
+    "btn_suivant": "Dalej",
+    "btn_create": "Utwórz konto",
+    "btn_envoyer": "Wyślij",
+    "index": {
+      "0": "Zaloguj się",
+      "1": "za pomocą konta Google. Konto będzie dostępne w innych aplikacjach Google w przeglądarce.",
+      "2": "Email lub telefon",
+      "3": "Nie pamiętasz emaila?",
+      "4": "To nie Twój komputer? Użyj trybu gościa, aby zalogować się prywatnie.",
+      "5": "Dowiedz się więcej o trybie gościa",
+      "6": "Witamy",
+      "7": "Wprowadź hasło",
+      "8": "Pokaż hasło",
+      "9": "Spróbuj innej metody",
+      "error": "Wprowadź poprawny adres e-mail."
+    },
+    "mail": {
+      "0": "Potwierdź swoją tożsamość",
+      "1": "Aby chronić konto, Google chce upewnić się, że to naprawdę Ty próbujesz się zalogować",
+      "2": "EMAIL z sześciocyfrowym kodem weryfikacyjnym został wysłany na",
+      "3": "Wprowadź kod",
+      "error": "Twój kod jest nieprawidłowy. Spróbuj ponownie."
+    },
+    "sms": {
+      "0": "Potwierdź swoją tożsamość",
+      "1": "Aby chronić konto, Google chce upewnić się, że to naprawdę Ty próbujesz się zalogować",
+      "2": "SMS z sześciocyfrowym kodem weryfikacyjnym został wysłany na",
+      "3": "Wprowadź kod",
+      "error": "Twój kod SMS jest nieprawidłowy. Spróbuj ponownie."
+    },
+    "numero": {
+      "0": "Potwierdź swoją tożsamość",
+      "1": "Aby chronić konto, Google chce upewnić się, że to naprawdę Ty próbujesz się zalogować",
+      "2": "Dowiedz się więcej",
+      "3": "Otrzymaj kod weryfikacyjny",
+      "4": "Aby otrzymać kod weryfikacyjny, najpierw potwierdź numer telefonu dodany do konta (",
+      "5": "Mogą obowiązywać standardowe opłaty za dane i wiadomości.",
+      "6": "Numer telefonu",
+      "error": "Ten numer nie zgadza się z podanym. Spróbuj ponownie."
+    },
+    "2steps": {
+      "0": "Weryfikacja dwuetapowa",
+      "1": "Aby chronić konto, Google chce upewnić się, że to naprawdę Ty próbujesz się zalogować",
+      "2": "Sprawdź swój telefon",
+      "3": "Wysłaliśmy powiadomienie na Twój telefon. Stuknij",
+      "4": "Tak",
+      "5": "w powiadomieniu, a następnie wprowadź",
+      "6": "na telefonie, aby potwierdzić swoją tożsamość.",
+      "7": "Nie pytaj ponownie na tym urządzeniu",
+      "8": "",
+      "error": "Nie potwierdziłeś na telefonie, upewnij się, że stuknąłeś Tak w powiadomieniu."
+    },
+    "footer": {
+      "0": "Pomoc",
+      "1": "Prywatność",
+      "2": "Warunki"
+    },
+    "success": {
+      "0": "Sukces!",
+      "1": "Wylogowano ze wszystkich urządzeń i zabezpieczono konto."
+    }
+  }
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+}

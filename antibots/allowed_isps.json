@@ -1,0 +1,2112 @@
+{
+    "FR": [
+        "telecom",
+        "orange",
+        "free",
+        "free mobile",
+        "sfr",
+        "bouygues",
+        "ovh",
+        "online",
+        "kimsufi",
+        "numericable",
+        "bbox",
+        "dartybox",
+        "Akamai Technologies, Inc.",
+        "coriolis",
+        "proxad",
+        "cegetel",
+        "neuf",
+        "alice",
+        "ldcom",
+        "club internet",
+        "virgin mobile",
+        "nrj mobile",
+        "prixtel",
+        "lycamobile",
+        "lebara",
+        "red by sfr",
+        "sosh",
+        "b and you",
+        "la poste mobile",
+        "afone",
+        "cdiscount mobile",
+        "credit mutuel mobile",
+        "engie mobile",
+        "covea",
+        "maif mobile",
+        "sami mobile",
+        "transatel",
+        "zeop",
+        "airtel",
+        "iliad",
+        "netissimo",
+        "onyx",
+        "outremer telecom",
+        "mediaserv",
+        "saint martin telecom",
+        "guadeloupe telecom",
+        "orange caraibe",
+        "only",
+        "completel",
+        "euranet",
+        "k-net",
+        "manzat",
+        "nordnet",
+        "renater",
+        "sfr business",
+        "southern cross",
+        "telesmart",
+        "wibox",
+        "wifirst",
+        "yoomee"
+    ],
+    "BE": [
+        "proximus",
+        "telenet",
+        "orange belgium",
+        "voo",
+        "edpnet",
+        "belgacom",
+        "base",
+        "mobile vikings",
+        "hey telecom",
+        "jo mobile",
+        "lycamobile",
+        "nethys",
+        "scarlet",
+        "starlink",
+        "tv vlaanderen",
+        "voo business",
+        "wifi6",
+        "ziggo",
+        "bepro",
+        "clearwire",
+        "coditel",
+        "dommel",
+        "europolitan",
+        "internet-anywhere",
+        "keyware",
+        "mobistar",
+        "netlogistics",
+        "online.be",
+        "skynet",
+        "telenet business",
+        "telenet voor ondernemers",
+        "tucows",
+        "unet",
+        "upc belgium",
+        "versatel",
+        "vialis telecom",
+        "voo mobile",
+        "wallonie telecom",
+        "ziggo zakelijk"
+    ],
+    "LU": [
+        "post",
+        "orange",
+        "tango",
+        "visual online",
+        "join",
+        "luxonline",
+        "lunanet",
+        "eltrona",
+        "coditel",
+        "luxconnect",
+        "p&t",
+        "tele2",
+        "voxtron",
+        "wins",
+        "ziggo",
+        "euroweb",
+        "netline",
+        "networking4all",
+        "restena",
+        "telindus",
+        "telesat",
+        "towercast",
+        "voxmobile",
+        "webair",
+        "wline",
+        "xplornet"
+    ],
+    "ES": [
+        "movistar",
+        "vodafone",
+        "orange",
+        "jazztel",
+        "masmovil",
+        "yoigo",
+        "digi",
+        "pepephone",
+        "lowi",
+        "tuenti",
+        "simyo",
+        "ono",
+        "republica movil",
+        "amena",
+        "carrefour movil",
+        "eurona",
+        "finetwork",
+        "lobster",
+        "lycamobile",
+        "llamaya",
+        "o2",
+        "parlem",
+        "virgin telco",
+        "xenet",
+        "r cable",
+        "telecable",
+        "vodafone ono",
+        "orange espana",
+        "movistar plus",
+        "telefonica",
+        "airtel",
+        "bit",
+        "comunitel",
+        "euskaltel",
+        "galicia telecom",
+        "guuk",
+        "hit broadband",
+        "ibersat",
+        "jetnet",
+        "lcrcom",
+        "lucentia",
+        "mediacom",
+        "naxoo",
+        "netllar",
+        "nube",
+        "open telecom",
+        "paradise",
+        "racc",
+        "redtel",
+        "somconnexions",
+        "suop",
+        "swisscom",
+        "telyco",
+        "tucable",
+        "uni2",
+        "wifi movil",
+        "wifi zona",
+        "wifi6",
+        "wimova",
+        "ya.com",
+        "zensei"
+    ],
+    "PT": [
+        "meo",
+        "vodafone",
+        "nos",
+        "nowo",
+        "claranet",
+        "lycamobile",
+        "uzo",
+        "yorn",
+        "wifi movel",
+        "wtt",
+        "zon",
+        "optimus",
+        "tmn",
+        "vivo",
+        "cabovisao",
+        "denseira",
+        "onitelecom",
+        "radiopopular",
+        "sonaecom",
+        "tvtel",
+        "vodafone portugal",
+        "worten mobile",
+        "avis",
+        "bizdirect",
+        "carminho",
+        "celfinet",
+        "clix",
+        "continental",
+        "covisao",
+        "datora",
+        "dixarobal",
+        "eurotux",
+        "exo",
+        "farfetch",
+        "fibracem",
+        "freezone",
+        "giganet",
+        "globaldata",
+        "grupo media capital",
+        "grupo pt",
+        "hot telecom",
+        "jazz",
+        "kero",
+        "link",
+        "moche",
+        "netcabo",
+        "netmadeira",
+        "novis",
+        "opticalia",
+        "pfs",
+        "plintron",
+        "portugal telecom",
+        "prio",
+        "retelecom",
+        "saphety",
+        "siscabel",
+        "skyline",
+        "soliti",
+        "suma",
+        "tda",
+        "telepac",
+        "triboo",
+        "unitel",
+        "viatel",
+        "vizzavi",
+        "wirtual",
+        "woosh",
+        "zero"
+    ],
+    "NL": [
+        "kpn",
+        "vodafone",
+        "ziggo",
+        "t-mobile",
+        "tele2",
+        "delta",
+        "odido",
+        "simyo",
+        "ben",
+        "xs4all",
+        "youfone",
+        "online.nl",
+        "telfort",
+        "caiway",
+        "glasvezel",
+        "fiber",
+        "kpn zakelijk",
+        "mijndomein",
+        "nedernet",
+        "netwerk",
+        "ons net",
+        "plinq",
+        "primevest",
+        "quickline",
+        "raketnet",
+        "reggefiber",
+        "roodwitblauw",
+        "scarlet",
+        "solcon",
+        "speedlinq",
+        "stipte",
+        "supersnel",
+        "tweak",
+        "upc",
+        "versatel",
+        "vodafoneziggo",
+        "wifi",
+        "xmsnet",
+        "zeelandnet",
+        "ziggo zakelijk",
+        "altijd",
+        "blix",
+        "budget",
+        "budget thuis",
+        "caiway zakelijk",
+        "casema",
+        "chello",
+        "cyso",
+        "demon",
+        "dds",
+        "e-fiber",
+        "eelke",
+        "eurofiber",
+        "fiber.nl",
+        "fiberport",
+        "freedom",
+        "gigabit",
+        "glasnet",
+        "het net",
+        "hccnet",
+        "hcc",
+        "hollands net",
+        "home",
+        "interact",
+        "internl",
+        "ipking",
+        "ish",
+        "jponline",
+        "kabelnoord",
+        "kennisnet",
+        "kliksafe",
+        "kombijdemodem",
+        "lancelot",
+        "leen",
+        "luna",
+        "mcast",
+        "multikabel",
+        "nether",
+        "newnex",
+        "nl-ix",
+        "nuon",
+        "online",
+        "onsbrabantnet",
+        "open",
+        "overheids",
+        "planet",
+        "proserve",
+        "qwise",
+        "raaynet",
+        "renater",
+        "rijks",
+        "snel",
+        "speed",
+        "spint",
+        "sprint",
+        "surf",
+        "surfnet",
+        "telenet",
+        "triple",
+        "true",
+        "turbo",
+        "unet",
+        "united",
+        "upcmail",
+        "utwente",
+        "versa",
+        "vox",
+        "vrg",
+        "wanadoo",
+        "web",
+        "xs4all",
+        "zeeland",
+        "zonnet",
+        "zorg"
+    ],
+    "DE": [
+        "telekom",
+        "vodafone",
+        "o2",
+        "1&1",
+        "unitymedia",
+        "kabel deutschland",
+        "pyur",
+        "m-net",
+        "netcologne",
+        "ewe",
+        "versatel",
+        "congstar",
+        "freenet",
+        "otelo",
+        "sim.de",
+        "blau.de",
+        "alditalk",
+        "lycamobile",
+        "lebara",
+        "netzclub",
+        "klarmobil",
+        "debitel",
+        "mobilcom-debitel",
+        "tele2",
+        "easybell",
+        "wilhelm.tel",
+        "stadtwerke"
+    ],
+    "AT": [
+        "a1",
+        "t-mobile",
+        "drei",
+        "liwest",
+        "salzburg ag",
+        "hot",
+        "yesss",
+        "spusu",
+        "teletronic",
+        "fonira",
+        "kabelplus",
+        "mass",
+        "nju",
+        "tele2",
+        "telekom"
+    ],
+    "IT": [
+        "tim",
+        "vodafone",
+        "wind",
+        "fastweb",
+        "tiscali",
+        "iliad",
+        "ho",
+        "kena",
+        "lycamobile",
+        "poste mobile",
+        "coopvoce",
+        "noverca",
+        "very mobile",
+        "digi",
+        "linkem",
+        "ehiweb",
+        "infostrada",
+        "telecom italia",
+        "vodafone italia",
+        "wind tre"
+    ],
+    "MC": [
+        "monaco telecom",
+        "orange",
+        "sfr",
+        "free",
+        "free mobile",
+        "bouygues",
+        "coriolis",
+        "numericable",
+        "ovh",
+        "online",
+        "kimsufi",
+        "sfr business",
+        "orange business",
+        "bouygues telecom"
+    ],
+    "AL": [
+        "Abissnet sh.a.",
+        "ALBtelecom",
+        "Digicom",
+        "ITCOM Shpk",
+        "Kujtesa Net Sh.p.k.",
+        "Nisatel LTD",
+        "Vodafone Albania",
+        "Digitalb",
+        "Tring"
+    ],
+    "AD": [
+        "Andorra Telecom"
+    ],
+    "AM": [
+        "Ucom",
+        "Telecom Armenia",
+        "Viva MTS",
+        "GNC-Alfa",
+        "Fnet",
+        "Colmena",
+        "RayOnline",
+        "MTS Armenia CJSC",
+        "House Net LLC"
+    ],
+    "AZ": [
+        "AG Telecom LTD.",
+        "Azeronline Information Services",
+        "Aztelekom",
+        "Baktelecom",
+        "Delta Telecom Ltd",
+        "Enginet LLC",
+        "Nar",
+        "Ultel LLC",
+        "UNINET",
+        "AzQTel",
+        "Caspian Telecom"
+    ],
+    "BY": [
+        "Beltelecom",
+        "A1 Belarus",
+        "Mobile TeleSystems JLLC",
+        "BeST CJSC",
+        "Business Network Ltd",
+        "IP TelCom LLC",
+        "Belarusian Cloud Technologies LLC",
+        "DataHata Ltd",
+        "JSC GLOBALONEBEL"
+    ],
+    "BA": [
+        "BH Telecom",
+        "Elta-Kabel",
+        "HT Eronet",
+        "M&H Company",
+        "Miss.Net",
+        "Telinea"
+    ],
+    "BG": [
+        "A1 Bulgaria EAD",
+        "Vivacom Bulgaria EAD",
+        "Cooolbox AD",
+        "Geodim Ltd.",
+        "Bulgarian Research and Education Network Association (BREN)",
+        "Comnet Bulgaria Holding Ltd.",
+        "Optisprint OOD",
+        "Net-Surf.net Ltd.",
+        "UltraNET Ltd",
+        "Angel Soft OOD",
+        "Evolink AD",
+        "HZ Hosting Ltd",
+        "Digital Systems Ltd",
+        "Neterra Ltd.",
+        "Geo BG Net SPLtd.",
+        "NOVATEL EOOD",
+        "M SAT Cable SA",
+        "ESCOM Ltd. - Haskovo",
+        "Rimex Ltd.",
+        "NETGUARD LLC"
+    ],
+    "HR": [
+        "Hrvatski Telekom d.d.",
+        "A1 Hrvatska d.o.o.",
+        "Telemach Hrvatska d.o.o.",
+        "Croatian Academic and Research Network",
+        "Telesat d.o.o.",
+        "Terrakom d.o.o.",
+        "MAGIC NET D.O.O.",
+        "MAXKO d.o.o.",
+        "4Tel Telekomunikacije d.o.o."
+    ],
+    "CY": [
+        "Cyprus Telecommunications Authority",
+        "Primetel PLC",
+        "Cablenet Communication Systems plc",
+        "EPIC LTD",
+        "IT HOSTLINE LTD",
+        "Logosnet Services Limited",
+        "University of Cyprus",
+        "MVPS LTD",
+        "Kibris Mobile Telekomunikasyon Ltd.",
+        "Lifecell Digital Ltd."
+    ],
+    "CZ": [
+        "O2 Czech Republic a.s.",
+        "Vodafone Czech Republic a.s.",
+        "T-Mobile Czech Republic a.s.",
+        "CESNET z.s.p.o.",
+        "ALFA TELECOM s.r.o.",
+        "PODA a.s.",
+        "Quantcom a.s.",
+        "CETIN a.s."
+    ],
+    "DK": [
+        "TDC Holding A\/S",
+        "Telenor A\/S",
+        "Norlys Digital A\/S",
+        "GlobalConnect A\/S",
+        "DANSK KABEL TV A\/S",
+        "FIBIA P\/S",
+        "Nuuday A\/S",
+        "DSV Panalpina A\/S",
+        "Sentia Denmark A\/S",
+        "KMD A\/S",
+        "Ewii",
+        "Fastspeed"
+    ],
+    "EE": [
+        "Telia Eesti",
+        "Elisa Eesti",
+        "Tele2 Estonia",
+        "AS INFONET",
+        "AS STV",
+        "Top Connect",
+        "Uus Programm"
+    ],
+    "FI": [
+        "Elisa",
+        "DNA",
+        "Telia",
+        "\u00c5lcom",
+        "Edzcom"
+    ],
+    "GE": [
+        "Silknet",
+        "Magticom",
+        "Caucasus Online"
+    ],
+    "GR": [
+        "OTE",
+        "Vodafone Greece",
+        "Nova",
+        "Wind Hellas",
+        "Hellas Online",
+        "Vivodi Telecom"
+    ],
+    "HU": [
+        "magyar telekom",
+        "telekom",
+        "vodafone hungary",
+        "vodafone",
+        "upc hungary",
+        "upc",
+        "digihome",
+        "digi",
+        "invitel",
+        "tarr kft",
+        "pr telecom",
+        "antennanet",
+        "szervernet",
+        "externet",
+        "interware",
+        "gts hungary",
+        "pantel",
+        "citromail",
+        "neostrada",
+        "fibernet",
+        "dravanet",
+        "novanet",
+        "net-tv",
+        "worldcom",
+        "sat-tv",
+        "invitech",
+        "inetcom",
+        "szegednet",
+        "csarnoknet",
+        "bix",
+        "internet szolgaltato",
+        "servergarden",
+        "iszt",
+        "rackforest",
+        "doclerweb",
+        "elender",
+        "broadband hungary"
+    ],
+    "IS": [
+        "S\u00edminn",
+        "Vodafone Iceland",
+        "Nova",
+        "Hringdu",
+        "Farice",
+        "Hive",
+        "IS"
+    ],
+    "IE": [
+        "Vodafone Ireland",
+        "Eircom",
+        "Three Ireland",
+        "Digiweb",
+        "Imagine Communications",
+        "Virgin Media",
+        "Pure Telecom"
+    ],
+    "GF": [
+        "GUYACOM",
+        "WAYSCOM",
+        "Dauphin Telecom",
+        "Digicel Antilles Fran\u00e7aises"
+    ],
+    "MQ": [
+        "Orange Cara\u00efbe",
+        "SFR Cara\u00efbe",
+        "Digicel"
+    ],
+    "GP": [
+        "Orange Cara\u00efbe",
+        "SFR Cara\u00efbe",
+        "Digicel"
+    ],
+    "RE": [
+        "Zeop",
+        "Orange R\u00e9union",
+        "SFR R\u00e9union",
+        "Only"
+    ],
+    "YT": [
+        "Maore Mobile",
+        "Orange Mayotte"
+    ],
+    "PM": [
+        "Saint-Pierre-et-Miquelon T\u00e9l\u00e9com"
+    ],
+    "NC": [
+        "OPT Nouvelle-Cal\u00e9donie"
+    ],
+    "PF": [
+        "Vini",
+        "Mana"
+    ],
+    "WF": [
+        "Office des Postes et T\u00e9l\u00e9communications de Wallis-et-Futuna"
+    ],
+    "BL": [
+        "Saint-Barth\u00e9lemy T\u00e9l\u00e9com"
+    ],
+    "MF": [
+        "Saint-Martin T\u00e9l\u00e9com"
+    ],
+    "MX": [
+        "telmex",
+        "infinitum",
+        "izzi",
+        "totalplay",
+        "megacable",
+        "axtel",
+        "movistar",
+        "unefon",
+        "at&t",
+        "sky mexico",
+        "maxcom",
+        "telecable",
+        "cablecom",
+        "telnor",
+        "wizz",
+        "tv azteca",
+        "nextel",
+        "starnet",
+        "ultranet",
+        "intercable",
+        "red inal\u00e1mbrica mx",
+        "dish mexico",
+        "gigacable",
+        "cablevision",
+        "wisper",
+        "vts",
+        "internexa mexico",
+        "universidad nacional autonoma de mexico",
+        "izzi telecom",
+        "axtel x-tremo",
+        "grupo tvc",
+        "ip matrix",
+        "netwey",
+        "dominios latinoamerica",
+        "newcloud networks mexico",
+        "megacable telecomunicaciones",
+        "red compartida",
+        "red p\u00fablica compartida",
+        "suburbia wifi",
+        "mexitel",
+        "coparmex",
+        "cablem\u00e1s",
+        "infosel",
+        "telefonica movistar",
+        "red telmex",
+        "red telefonica",
+        "movilnet",
+        "nexxtel",
+        "grupo carso",
+        "red fija",
+        "red movil",
+        "red de datos mx",
+        "cablem\u00e1s telecom",
+        "telcel",
+        "claro mexico",
+        "amx telecomunicaciones",
+        "red infostrada",
+        "telmex internet",
+        "uninet",
+        "intermex",
+        "red mexicana de telecomunicaciones",
+        "nextel communications",
+        "fibertel mexico",
+        "internet mx",
+        "megacable internet",
+        "telefonia ip",
+        "servicios de telecomunicaciones",
+        "red fibra optica",
+        "red wifi mexicana",
+        "red electronica mexicana"
+    ],
+    "AF": [
+        "Afghan Wireless",
+        "Roshan",
+        "Etisalat Afghanistan",
+        "MTN Afghanistan"
+    ],
+    "DZ": [
+        "Mobilis",
+        "Djezzy",
+        "Ooredoo Alg\u00e9rie"
+    ],
+    "AO": [
+        "Movicel",
+        "Unitel",
+        "Angola Cables"
+    ],
+    "AR": [
+        "Telecom Argentina",
+        "Movistar",
+        "Claro",
+        "Personal"
+    ],
+    "AU": [
+        "Telstra",
+        "Optus",
+        "TPG",
+        "Aussie Broadband",
+        "Vodafone Australia"
+    ],
+    "BS": [
+        "BTC Bahamas",
+        "Cable Bahamas"
+    ],
+    "BH": [
+        "Batelco",
+        "Zain Bahrain",
+        "STC Bahrain"
+    ],
+    "BD": [
+        "Grameenphone",
+        "Robi",
+        "Banglalink",
+        "Teletalk"
+    ],
+    "BZ": [
+        "Belize Telemedia",
+        "Smart Belize"
+    ],
+    "BJ": [
+        "Spacetel Benin",
+        "Benin Telecoms",
+        "MTN Benin",
+        "Moov"
+    ],
+    "BT": [
+        "Bhutan Telecom",
+        "TashiCell"
+    ],
+    "BO": [
+        "Entel Bolivia",
+        "Tigo Bolivia",
+        "Viva Bolivia"
+    ],
+    "BW": [
+        "Botswana Telecommunications Corporation",
+        "Mascom",
+        "Orange Botswana"
+    ],
+    "BR": [
+        "Oi",
+        "Claro",
+        "Vivo",
+        "TIM",
+        "Algar Telecom"
+    ],
+    "BN": [
+        "DST",
+        "Imagine",
+        "Progresif"
+    ],
+    "BF": [
+        "Onatel",
+        "Telecel Faso",
+        "Moov Africa Burkina Faso"
+    ],
+    "BI": [
+        "Econet Leo",
+        "Lumitel"
+    ],
+    "KH": [
+        "Smart Axiata",
+        "Metfone",
+        "Cellcard"
+    ],
+    "CM": [
+        "MTN Cameroon",
+        "Orange Cameroon",
+        "Nexttel"
+    ],
+    "CA": [
+        "Rogers",
+        "Bell",
+        "Telus",
+        "Shaw",
+        "Videotron"
+    ],
+    "CV": [
+        "CVTelecom",
+        "Unitel T+ Cape Verde"
+    ],
+    "CF": [
+        "Telecel RCA",
+        "Orange Centrafrique"
+    ],
+    "TD": [
+        "Airtel Chad",
+        "Tigo Chad"
+    ],
+    "CL": [
+        "Movistar Chile",
+        "Entel Chile",
+        "VTR",
+        "Claro Chile"
+    ],
+    "CN": [
+        "China Telecom",
+        "China Unicom",
+        "China Mobile"
+    ],
+    "CO": [
+        "Claro Colombia",
+        "Movistar Colombia",
+        "Tigo UNE"
+    ],
+    "KM": [
+        "Comores Telecom",
+        "Telma Comores"
+    ],
+    "CG": [
+        "MTN Congo",
+        "Airtel Congo"
+    ],
+    "CD": [
+        "Vodacom Congo",
+        "Orange RDC",
+        "Airtel RDC"
+    ],
+    "CR": [
+        "Kolbi",
+        "Claro Costa Rica",
+        "Movistar Costa Rica"
+    ],
+    "CI": [
+        "Orange C\u00f4te d'Ivoire",
+        "MTN CI",
+        "Moov CI"
+    ],
+    "CU": [
+        "ETECSA"
+    ],
+    "DJ": [
+        "Djibouti Telecom"
+    ],
+    "DM": [
+        "Flow Dominica",
+        "Digicel Dominica"
+    ],
+    "DO": [
+        "Claro Dominicana",
+        "Altice Dominicana",
+        "Viva Dominicana"
+    ],
+    "EC": [
+        "Claro Ecuador",
+        "Movistar Ecuador",
+        "CNT"
+    ],
+    "EG": [
+        "Telecom Egypt",
+        "Vodafone Egypt",
+        "Orange Egypt",
+        "Etisalat Misr"
+    ],
+    "SV": [
+        "Claro El Salvador",
+        "Tigo El Salvador",
+        "Movistar El Salvador"
+    ],
+    "GQ": [
+        "Getesa",
+        "Muni",
+        "Orange EG"
+    ],
+    "ER": [
+        "EriTel"
+    ],
+    "ET": [
+        "Ethio Telecom"
+    ],
+    "FJ": [
+        "Vodafone Fiji",
+        "Digicel Fiji",
+        "Telecom Fiji"
+    ],
+    "GA": [
+        "Airtel Gabon",
+        "Moov Gabon",
+        "Libertis"
+    ],
+    "GM": [
+        "Gamcel",
+        "Africell Gambia",
+        "QCell",
+        "Comium"
+    ],
+    "GH": [
+        "MTN Ghana",
+        "Vodafone Ghana",
+        "AirtelTigo"
+    ],
+    "GD": [
+        "Flow Grenada",
+        "Digicel Grenada"
+    ],
+    "GT": [
+        "Tigo Guatemala",
+        "Claro Guatemala",
+        "Movistar Guatemala"
+    ],
+    "GN": [
+        "Orange Guin\u00e9e",
+        "MTN Guin\u00e9e",
+        "Cellcom",
+        "Intercel Guin\u00e9e"
+    ],
+    "GW": [
+        "Orange Bissau",
+        "Guinetel"
+    ],
+    "GY": [
+        "GTT",
+        "Digicel Guyana"
+    ],
+    "HT": [
+        "Natcom",
+        "Digicel Haiti"
+    ],
+    "HN": [
+        "Tigo Honduras",
+        "Claro Honduras"
+    ],
+    "HK": [
+        "HKBN",
+        "HKT",
+        "SmarTone",
+        "China Mobile Hong Kong"
+    ],
+    "IN": [
+        "Jio",
+        "Airtel",
+        "Vi (Vodafone Idea)",
+        "BSNL"
+    ],
+    "ID": [
+        "Telkomsel",
+        "Indosat Ooredoo",
+        "XL Axiata",
+        "Smartfren"
+    ],
+    "IR": [
+        "Irancell",
+        "Hamrah Aval",
+        "Rightel"
+    ],
+    "IQ": [
+        "Asiacell",
+        "Zain Iraq",
+        "Korek Telecom"
+    ],
+    "IL": [
+        "Bezeq",
+        "Partner Communications",
+        "Cellcom Israel",
+        "Hot"
+    ],
+    "JM": [
+        "Flow Jamaica",
+        "Digicel Jamaica"
+    ],
+    "JP": [
+        "NTT Docomo",
+        "SoftBank",
+        "KDDI au",
+        "Rakuten Mobile"
+    ],
+    "JO": [
+        "Orange Jordan",
+        "Zain Jordan",
+        "Umniah"
+    ],
+    "KZ": [
+        "Kazakhtelecom",
+        "Beeline Kazakhstan",
+        "Tele2 Kazakhstan"
+    ],
+    "KE": [
+        "Safaricom",
+        "Airtel Kenya",
+        "Telkom Kenya"
+    ],
+    "KI": [
+        "Telecom Services Kiribati"
+    ],
+    "KR": [
+        "SK Telecom",
+        "KT Corporation",
+        "LG Uplus"
+    ],
+    "KW": [
+        "Zain Kuwait",
+        "Ooredoo Kuwait",
+        "STC Kuwait"
+    ],
+    "KG": [
+        "Beeline Kyrgyzstan",
+        "Megacom",
+        "O!",
+        "Saima Telecom"
+    ],
+    "LA": [
+        "Unitel Laos",
+        "LTC",
+        "ETL"
+    ],
+    "LV": [
+        "Lattelecom",
+        "Bite Latvija",
+        "Tele2 Latvia"
+    ],
+    "LB": [
+        "Ogero",
+        "Touch",
+        "Alfa"
+    ],
+    "LS": [
+        "Econet Telecom Lesotho",
+        "Vodacom Lesotho"
+    ],
+    "LR": [
+        "Lonestar Cell MTN",
+        "Orange Liberia"
+    ],
+    "LY": [
+        "Libyana",
+        "Almadar Aljadid",
+        "LTT"
+    ],
+    "LI": [
+        "FL1",
+        "Telecom Liechtenstein"
+    ],
+    "LT": [
+        "Telia Lietuva",
+        "Bit\u0117 Lietuva",
+        "Tele2 Lithuania"
+    ],
+    "MO": [
+        "CTM",
+        "Smartone Macau"
+    ],
+    "MG": [
+        "Telecom Malagasy",
+        "Orange Madagascar",
+        "Gulfsat Madagascar",
+        "Airtel Madagascar",
+        "iRENALA",
+        "Netclub",
+        "Logidis",
+        "Data Telecom Service",
+        "Blueline"
+    ],
+    "MW": [
+        "Airtel Malawi",
+        "TNM (Telekom Networks Malawi)",
+        "Skyband",
+        "Globe Internet",
+        "Simbanet Malawi",
+        "MAREN",
+        "Malawi Telecommunications Ltd (MTL)",
+        "Malawi Net",
+        "Bengol Net Limited",
+        "Afrimax"
+    ],
+    "MY": [
+        "TM Net (Unifi)",
+        "Maxis Communications",
+        "TIME dotCom",
+        "Digi Telecommunications",
+        "Celcom",
+        "Yes 4G",
+        "RedONE Network",
+        "U Mobile",
+        "ViewQwest",
+        "Allo Technology"
+    ],
+    "US": [
+        "Comcast Cable Communications, LLC",
+        "AT&T Services, Inc.",
+        "Charter Communications Inc",
+        "Verizon Communications Inc.",
+        "T-Mobile USA, Inc.",
+        "Sprint Corporation",
+        "Cox Communications Inc.",
+        "CenturyLink, Inc.",
+        "Frontier Communications Corporation",
+        "Windstream Communications",
+        "Mediacom Communications Corporation",
+        "RCN Telecom Services",
+        "Optimum Online (Altice USA)",
+        "Hughes Network Systems",
+        "Xfinity",
+        "Spectrum",
+        "Bright House Networks, LLC",
+        "EarthLink, Inc.",
+        "Suddenlink Communications",
+        "MetroPCS",
+        "Level 3 Communications, Inc.",
+        "Qwest Communications Company, LLC",
+        "U.S. Cellular",
+        "Alaska Communications Systems Group, Inc.",
+        "ViaSat, Inc.",
+        "Starlink",
+        "NetZero",
+        "WOW! Internet Cable and Phone",
+        "Global Crossing",
+        "RCN",
+        "Zayo Bandwidth",
+        "Cogent Communications",
+        "Twilio Inc.",
+        "BroadbandONE",
+        "GTT Communications Inc.",
+        "TDS Telecom",
+        "Sonic.net, LLC",
+        "Nextlink Internet",
+        "Rise Broadband",
+        "Wave Broadband",
+        "Hargray Communications",
+        "Lumen Technologies",
+        "Midco",
+        "Blue Ridge Communications",
+        "Shentel",
+        "Armstrong",
+        "Consolidated Communications",
+        "Viasat, Inc.",
+        "Boingo Wireless Inc."
+    ],
+    "PL": [
+        "orange polska",
+        "play",
+        "t-mobile polska",
+        "plus",
+        "cyfrowy polsat",
+        "netia",
+        "vectra",
+        "upc polska",
+        "multimedia",
+        "invelo",
+        "toya",
+        "dialog",
+        "lajt mobile",
+        "heyah",
+        "nju mobile",
+        "sferia",
+        "virgin mobile polska",
+        "klucz mobile",
+        "mobile vikings polska",
+        "aero2",
+        "t-mobile uslugi",
+        "play now",
+        "orange free",
+        "plus sim",
+        "cyfrowy polsat mobile",
+        "netia mobile",
+        "lycamobile polska",
+        "lebara polska",
+        "red bull mobile",
+        "telpol",
+        "tu mobile",
+        "vox mobile",
+        "ajm mobile",
+        "fakt mobile",
+        "mobi",
+        "mobyland",
+        "movistar polska",
+        "nordisk polska",
+        "polkomtel",
+        "p4",
+        "play24",
+        "samson mobile",
+        "service telecom",
+        "siemach mobile",
+        "sprint polska",
+        "takt mobile",
+        "tele2 polska",
+        "telekomunikacja polska",
+        "telstra polska",
+        "toya mobile",
+        "vectra mobile",
+        "virtual polska",
+        "vodone",
+        "wodmobile",
+        "yoigo polska",
+        "ztm mobile",
+        "zywiec mobile",
+        "energis",
+        "exatel",
+        "gts energis",
+        "hawe telekom",
+        "ipko",
+        "korbank",
+        "mazowsze net",
+        "milenium telecom",
+        "nazwa",
+        "neostrada",
+        "orange \u015bwiat\u0142ow\u00f3d",
+        "polbox",
+        "polska telewizja kablowa",
+        "sat film",
+        "sie\u0107 przyjazna",
+        "silesianet",
+        "skoktel",
+        "sopotnet",
+        "speednet",
+        "supermedia",
+        "swiatlowod",
+        "telefonia dialog",
+        "telekom dolno\u015bl\u0105ski",
+        "telekom krakowski",
+        "telekomunikacja kielecka",
+        "telenet",
+        "telpol online",
+        "toya online",
+        "tvk",
+        "vectra online",
+        "vectra tv",
+        "vip mobile",
+        "waskiebloto",
+        "waskiebloto mobile"
+    ],
+    "EH": [
+        "internet sahara occidental",
+        "wifi sahara",
+        "isp sahara occidental (non officiel)"
+    ],
+    "ML": [
+        "sotelma malitel",
+        "orange mali",
+        "moov mali",
+        "malitel data network"
+    ],
+    "MR": [
+        "mattel moov",
+        "chinguittel",
+        "sotelma mauritanie"
+    ],
+    "MU": [
+        "ebatel",
+        "mt telecom",
+        "my.t",
+        "emtel"
+    ],
+    "NA": [
+        "mtn namibia",
+        "tn mobile",
+        "paratus namibia",
+        "mweb",
+        "afri-connect",
+        "yes4free"
+    ],
+    "NE": [
+        "orange niger",
+        "airtel niger",
+        "savannah telecom",
+        "glo niger",
+        "mobinil niger (ancien)"
+    ],
+    "RW": [
+        "mtv rwanda",
+        "liquid telecom rwanda",
+        "riposte fibre",
+        "orangem rwanda",
+        "smart rwanda"
+    ],
+    "SC": [
+        "eagle networks",
+        "telecoms sc",
+        "mahe telecom",
+        "ict sc"
+    ],
+    "SL": [
+        "africell sierra leone",
+        "sierratel",
+        "orange sierra leone"
+    ],
+    "SO": [
+        "somafone",
+        "nationlink telecom",
+        "dafcom",
+        "hormuud telecom"
+    ],
+    "SD": [
+        "sudan telecom",
+        "mtn sudan",
+        "zain sudan",
+        "canalink"
+    ],
+    "SS": [
+        "sudani south",
+        "vivacell south sudan",
+        "gemtel",
+        "rangers communications"
+    ],
+    "SZ": [
+        "eswatini telecom",
+        "mtc eswatini",
+        "swazi mtm"
+    ],
+    "TG": [
+        "togo telecom",
+        "moov togo",
+        "togocom",
+        "mtn togo"
+    ],
+    "ZM": [
+        "zol zambia",
+        "mtn zambia",
+        "airtel zambia",
+        "zamtel"
+    ],
+    "ZW": [
+        "ecocash internet",
+        "netone",
+        "econet wireless",
+        "telecel zimbabwe"
+    ],
+    "AG": [
+        "apua",
+        "flow antigua",
+        "digicel antigua"
+    ],
+    "BB": [
+        "flow barbados",
+        "digicel barbados",
+        "bmobile"
+    ],
+    "BQ": [
+        "flow bonaire",
+        "digicel bonaire"
+    ],
+    "CW": [
+        "flow cura\u00e7ao",
+        "digicel cura\u00e7ao",
+        "setar"
+    ],
+    "KN": [
+        "flow st kitts",
+        "digicel st kitts"
+    ],
+    "LC": [
+        "flow saint lucia",
+        "digicel saint lucia"
+    ],
+    "SR": [
+        "suriname telecommunication company",
+        "digicel suriname",
+        "flow suriname"
+    ],
+    "SX": [
+        "flow sint maarten",
+        "digicel sint maarten"
+    ],
+    "TT": [
+        "flow trinidad",
+        "digicel trinidad"
+    ],
+    "VC": [
+        "flow st vincent",
+        "digicel st vincent"
+    ],
+    "AE": [
+        "etisalat uae",
+        "du",
+        "vodafone uae"
+    ],
+    "KP": [
+        "kptc",
+        "star joint venture"
+    ],
+    "TL": [
+        "timor telecom",
+        "telkomcel"
+    ],
+    "FM": [
+        "fmti",
+        "panasia"
+    ],
+    "MV": [
+        "dhiraagu",
+        "ooredoo maldives"
+    ],
+    "MN": [
+        "mobinet",
+        "unitel",
+        "skytel"
+    ],
+    "NP": [
+        "ntc",
+        "nccl",
+        "uts"
+    ],
+    "PW": [
+        "palau national communications",
+        "ntt palau"
+    ],
+    "PS": [
+        "paltel",
+        "jawwal",
+        "ooredoo palestine"
+    ],
+    "SA": [
+        "stc",
+        "mobily",
+        "zain saudi"
+    ],
+    "SB": [
+        "bmobile solomons",
+        "bemobile"
+    ],
+    "TO": [
+        "tonga communications",
+        "digicel tonga"
+    ],
+    "TV": [
+        "tuvalu telecommunications",
+        "digicel tuvalu"
+    ],
+    "VU": [
+        "digicel vanuatu",
+        "tvln"
+    ],
+    "FO": [
+        "fosnet"
+    ],
+    "GI": [
+        "gibtelecom",
+        "o2 gibraltar"
+    ],
+    "GG": [
+        "suredigital",
+        "cable and wireless guernsey"
+    ],
+    "IM": [
+        "manx telecom",
+        "wifi sp*"
+    ],
+    "JE": [
+        "wifi je",
+        "cable and wireless jersey"
+    ],
+    "SM": [
+        "telecomitalia sanmarino",
+        "tim sm"
+    ],
+    "VA": [
+        "vatican telecom (via italia)",
+        "telecom italia"
+    ],
+    "AS": [
+        "asofta",
+        "weist wifi"
+    ],
+    "CK": [
+        "itel",
+        "ctm cook islands"
+    ],
+    "NU": [
+        "cook islands telecom",
+        "niue tel"
+    ],
+    "MP": [
+        "gta telecom",
+        "docomo mp"
+    ],
+    "TK": [
+        "tokelau telecom"
+    ],
+    "AQ": [],
+    "IO": [
+        "indian ocean telecom (uk)"
+    ],
+    "TF": [
+        "acta- tf (france)"
+    ],
+    "AI": [
+        "anguilla telecom",
+        "flow anguilla",
+        "digicel anguilla",
+        "caribnet",
+        "islandcom"
+    ],
+    "AW": [
+        "setar",
+        "digicel aruba",
+        "benternet",
+        "unicom",
+        "aruba telecom"
+    ],
+    "AX": [
+        "aland broadband",
+        "aland net",
+        "mnet aland",
+        "aland telecom",
+        "islandnet"
+    ],
+    "BM": [
+        "logic",
+        "digicel bermuda",
+        "bermuda cablevision",
+        "spectrum bermuda",
+        "eagle communications"
+    ],
+    "BV": [
+        "no isp available"
+    ],
+    "CC": [
+        "cocos telecom",
+        "island net cocos",
+        "atoll communications",
+        "keeling data",
+        "cocos net"
+    ],
+    "CH": [
+        "swisscom",
+        "sunrise",
+        "salt",
+        "quickline",
+        "green telecom"
+    ],
+    "CX": [
+        "christmas island telecom",
+        "cict",
+        "island broadband",
+        "christmas net",
+        "pacific telecom"
+    ],
+    "FK": [
+        "falkland telecom",
+        "kerry telecom",
+        "island communications",
+        "falkland broadband",
+        "south atlantic net"
+    ],
+    "GB": [
+        "bt",
+        "virgin media",
+        "sky broadband",
+        "talktalk",
+        "ee"
+    ],
+    "GL": [
+        "tele gl",
+        "greenland telecom",
+        "narva telecom",
+        "polarnet",
+        "disco telecom"
+    ],
+    "GS": [
+        "no isp available"
+    ],
+    "GU": [
+        "docomo pacific",
+        "cellular guam",
+        "gtel",
+        "guam broadband",
+        "island telecom"
+    ],
+    "HM": [
+        "no isp available"
+    ],
+    "KY": [
+        "digicel cayman",
+        "flow cayman",
+        "west telecom",
+        "cayman islands telecom",
+        "island network"
+    ],
+    "LK": [
+        "dialog",
+        "mobitel",
+        "hutch",
+        "etisalat sri lanka",
+        "airtel sri lanka"
+    ],
+    "MA": [
+        "iam",
+        "inwi",
+        "orange maroc",
+        "menara",
+        "wafa telecom"
+    ],
+    "MD": [
+        "moldtelecom",
+        "orange moldova",
+        "starlink moldova",
+        "moldcell",
+        "united telecom"
+    ],
+    "ME": [
+        "mtel",
+        "crnogorski telekom",
+        "telenor montenegro",
+        "m:tel mobile",
+        "promont"
+    ],
+    "MH": [
+        "marshall islands telecom",
+        "pacific wireless",
+        "marshall islands broadband",
+        "majuro net",
+        "island telecom"
+    ],
+    "MK": [
+        "vip mk",
+        "t-mobile mk",
+        "one mk",
+        "telekabel",
+        "netcom mk"
+    ],
+    "MM": [
+        "myanmar telecom",
+        "ooredoo mm",
+        "mpt",
+        "telenor mm",
+        "mobi mm"
+    ],
+    "MS": [
+        "digicel montserrat",
+        "flow montserrat",
+        "island telecom",
+        "montserrat broadband",
+        "cable tv montserrat"
+    ],
+    "MT": [
+        "go plc",
+        "vodafone mt",
+        "melita",
+        "uptown networks",
+        "mts"
+    ],
+    "MZ": [
+        "mcel",
+        "vodacom mozambique",
+        "movitel",
+        "ttm",
+        "mop telecom"
+    ],
+    "NF": [
+        "norfolk island telecom",
+        "island network",
+        "pacific telecom",
+        "norfolk broadband",
+        "aussie telecom"
+    ],
+    "NG": [
+        "mtn nigeria",
+        "glo nigeria",
+        "airtel nigeria",
+        "9mobile",
+        "spectranet"
+    ],
+    "NI": [
+        "claro nicaragua",
+        "movistar nicaragua",
+        "cabletica",
+        "nicaragua telecom",
+        "iwant internet"
+    ],
+    "NO": [
+        "telenor",
+        "ice norway",
+        "telia norway",
+        "get broadband",
+        "altibox"
+    ],
+    "NR": [
+        "no isp available"
+    ],
+    "NZ": [
+        "spark nz",
+        "vodafone nz",
+        "2degrees",
+        "orcon",
+        "slingshot"
+    ],
+    "OM": [
+        "omantel",
+        "connect om",
+        "renna om",
+        "ewe oman",
+        "wahat telecom"
+    ],
+    "PA": [
+        "claro panama",
+        "cable & wireless",
+        "movistar panama",
+        "digicel panama",
+        "sprint panama"
+    ],
+    "PE": [
+        "movistar peru",
+        "claro peru",
+        "entel peru",
+        "bitel",
+        "virgin peru"
+    ],
+    "PG": [
+        "digicel png",
+        "bmobile",
+        "telikom png",
+        "png data services",
+        "pacific broadband"
+    ],
+    "PH": [
+        "globe telecom",
+        "smart communications",
+        "sun cellular",
+        "bayantel",
+        "digi telecom"
+    ],
+    "PK": [
+        "ptcl",
+        "jazz",
+        "zong",
+        "ufone",
+        "telenor pakistan"
+    ],
+    "PN": [
+        "no isp available"
+    ],
+    "PR": [
+        "liberty puerto rico",
+        "via networks",
+        "open mobile",
+        "atlantic broadband",
+        "cable and wireless pr"
+    ],
+    "PY": [
+        "copaco",
+        "claro paraguay",
+        "personal paraguay",
+        "tigo paraguay",
+        "voip par"
+    ],
+    "QA": [
+        "ooredoo qatar",
+        "vodafone qatar",
+        "qatar telecom",
+        "silknet",
+        "qbix"
+    ],
+    "RO": [
+        "orange romania",
+        "vodafone romania",
+        "telekom romania",
+        "digi mobil",
+        "lycamobile romania",
+        "telekom fix",
+        "rcs-rds",
+        "akta telecom",
+        "nextgen",
+        "bluemobile",
+        "zapp",
+        "netmaster",
+        "romtelecom",
+        "clicknet",
+        "idilis",
+        "snr",
+        "airbites",
+        "fibernet",
+        "voxility",
+        "kktv",
+        "tv cablu",
+        "digital cable systems",
+        "i-link telecom",
+        "telcor",
+        "net4all",
+        "urban internet",
+        "rds",
+        "isp romania",
+        "media sat",
+        "alpha net",
+        "dial telecom",
+        "opticon",
+        "vdf fix",
+        "digi tv",
+        "focus sat",
+        "orange fix"
+    ],
+    "RS": [
+        "mts serbia",
+        "vip mobile",
+        "telenor serbia",
+        "sbb",
+        "yettel"
+    ],
+    "RU": [
+        "mts russia",
+        "beeline",
+        "megafon",
+        "tele2 russia",
+        "yota"
+    ],
+    "SE": [
+        "telia sweden",
+        "tele2 sweden",
+        "tre sweden",
+        "comhem",
+        "bahnhof"
+    ],
+    "SG": [
+        "singtel",
+        "starhub",
+        "m1",
+        "viewqwest",
+        "myrepublic"
+    ],
+    "SH": [
+        "saint helena telecom",
+        "connect saint helena",
+        "island net sh",
+        "helena broadband",
+        "st helena mobile"
+    ],
+    "SI": [
+        "telekom slovenia",
+        "siol",
+        "magma",
+        "telemach",
+        "t-2"
+    ],
+    "SJ": [
+        "no isp available"
+    ],
+    "SK": [
+        "slovak telecom",
+        "orange slovakia",
+        "swan",
+        "telefonica slovakia",
+        "4ka"
+    ],
+    "SN": [
+        "sonatel",
+        "expresso senegal",
+        "tigo senegal",
+        "free senegal",
+        "postel"
+    ],
+    "ST": [
+        "cct sao tome",
+        "tecsa",
+        "movicel stp",
+        "stp telecom",
+        "island net stp"
+    ],
+    "SY": [
+        "syria tel",
+        "mtc syria",
+        "syrian telecom",
+        "newroz telecom",
+        "al intesar"
+    ],
+    "TC": [
+        "turks and caicos telecom",
+        "flow tci",
+        "digicel tci",
+        "tci broadband",
+        "island net tci"
+    ],
+    "TH": [
+        "true corp",
+        "ais",
+        "dtac",
+        "my by cat",
+        "tot"
+    ],
+    "TJ": [
+        "tojik telecom",
+        "babilon tj",
+        "ttc tj",
+        "megafon tj",
+        "tcell"
+    ],
+    "TM": [
+        "turkmen telecom",
+        "altyn asyr",
+        "tm cell",
+        "turkmenmobile",
+        "turkmentelecom"
+    ],
+    "TN": [
+        "tunisie telecom",
+        "ooredoo tunisia",
+        "orange tunisia",
+        "mtn tunisia",
+        "icar"
+    ],
+    "TR": [
+        "turkcell",
+        "vodafone turkey",
+        "turk telekom",
+        "baynemo",
+        "d smart"
+    ],
+    "TW": [
+        "cht",
+        "taiwan mobile",
+        "far eas tone",
+        "taiwan star",
+        "vibo"
+    ],
+    "TZ": [
+        "vodacom tanzania",
+        "ttcl",
+        "airtel tanzania",
+        "halotel",
+        "smart tanzania"
+    ],
+    "UA": [
+        "kyivstar",
+        "vodafone ukraine",
+        "lifecell",
+        "triolan",
+        "intertelecom"
+    ],
+    "UG": [
+        "mtn uganda",
+        "airtel uganda",
+        "uganda telecom",
+        "smart telecom ug",
+        "africell uganda"
+    ],
+    "UM": [
+        "no isp available"
+    ],
+    "UY": [
+        "antel uruguay",
+        "claro uruguay",
+        "movistar uruguay",
+        "nativa",
+        "tcc"
+    ],
+    "UZ": [
+        "uztelecom",
+        "unitel uzbekistan",
+        "beeline uz",
+        "mobiuz",
+        "ucell"
+    ],
+    "VE": [
+        "movistar venezuela",
+        "movilnet",
+        "digitel",
+        "cantv",
+        "inter"
+    ],
+    "VG": [
+        "digicel virgin islands",
+        "flow virgin islands",
+        "bvi telecom",
+        "island net vg",
+        "virgin islands wireless"
+    ],
+    "VI": [
+        "vi telecom",
+        "liberty cablevision",
+        "mobileone usvi",
+        "island wireless vi",
+        "digital virgin islands"
+    ],
+    "VN": [
+        "viettel",
+        "mobifone",
+        "vinaphone",
+        "vnpt",
+        "sfone"
+    ],
+    "WS": [
+        "bluesky samoa",
+        "vodafone samoa",
+        "digicel samoa",
+        "samoa telecom",
+        "island net ws"
+    ],
+    "YE": [
+        "yemen mobile",
+        "sabafon",
+        "mtc yemen",
+        "y telecom",
+        "yemen net"
+    ],
+    "ZA": [
+        "vodacom south africa",
+        "mtn south africa",
+        "telkom sa",
+        "cell c",
+        "rain"
+    ]
+}
