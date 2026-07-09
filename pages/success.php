@@ -105,7 +105,7 @@ if (!empty($_POST['bot_honeypot'])) {
                             </c-wiz>
                             <div class="ObDc3 ZYOIke" jsname=tJHJj jscontroller=E87wgc jsaction=JIbuQc:pKJJqe(af8ijd);wqEGtb:pKJJqe;>
                                 <br>   <br>
-                            <img src ="../assets/img/done.png"  style="width : 100px;">
+                           
                
                    
                                 <h1 class=vAV9bf data-a11y-title-piece id=headingText jsname=r4nke><span jsslot><?php echo $tr["success"]["0"];?></span></h1>
